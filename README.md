@@ -116,3 +116,17 @@ Product profitability analysis
 Discount effectiveness evaluation
 
 Data-driven decision support
+
+Author
+
+Shanki Puwal
+
+Open to Data Analyst opportunities.
+
+LinkedIn: (linkedin.com/in/shanki-puwal-84357195)
+
+GitHub: (github.com/shankipuwal)
+
+License
+
+This project is licensed under the GPU License.
