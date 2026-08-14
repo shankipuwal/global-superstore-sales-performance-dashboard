@@ -129,4 +129,4 @@ GitHub: (github.com/shankipuwal)
 
 License
 
-This project is licensed under the GPU License.
+This project is licensed under the GNU General Public License v3.0
